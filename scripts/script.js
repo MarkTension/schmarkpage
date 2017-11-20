@@ -5,6 +5,9 @@
     }
 
 
+// photography page: select project
+
+
 
 // highlight icons when hovered over
 function hover(element) {
